@@ -1,0 +1,2 @@
+# The-Little-Submarine-That-Could
+The Little Submarine That Could is a simple single player game where a submarine must navigate through the game in order to reach the treasure chest and win the game. Consisting of three levels, The Little Submarine That Could challenges the player to reach the destination required before losing all health and fuel points. With fuel and health top-ups scattered throughout the game it is a challenge to see the players navigate through the game with skilled accuracy.
