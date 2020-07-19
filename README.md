@@ -5,9 +5,11 @@ Built a long time ago by Andrew Thompson, Maegan Kennedy, Michael Blayney, Amy W
 
 ## Want to try it yourself?
 
-[Download the EXE](https://www.google.com) for Windows
-[Download the DMG](https://www.google.com) for Mac OS
-[Download the JAR](https://www.google.com) for other environments
+[Download the EXE](https://github.com/andythomnz/The-Little-Submarine-That-Could/raw/master/The%20Little%20Submarine%20That%20Could.exe) for Windows
+
+[Download the DMG](https://drive.google.com/file/d/0BxdMn4tGZ6ryc1J0X0otVUpxNjg/view?usp=sharing) for Mac OS
+
+[Download the JAR](https://github.com/andythomnz/The-Little-Submarine-That-Could/raw/master/The%20Little%20Submarine%20That%20Could.jar) for other environments
 
 ![Menu screen](https://raw.githubusercontent.com/andythomnz/The-Little-Submarine-That-Could/master/Screenshots/Menu.png)
 
